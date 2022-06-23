@@ -5,7 +5,7 @@
 ## 事前準備
 ~/.bashrc に
 ```
-alias atq="/home/user01/atcoder/atq/atq.out" 
+alias atq="(atq.outへのPATH)" 
 ```
 を追記
 
